@@ -1,1 +1,1 @@
-In this directory, you'll find two folders: one containing the original R-package and the other containing the standalone .exe program. Please refer to the instructions provided in their respective folders.
+In this directory, you'll find two folders: one containing the original R-package and the other containing the standalone .exe program (MATLAB_ONA_thin). Please refer to the instructions provided in their respective folders.
